@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import Label from "./Label";
 
 const CardStyle = styled.div`
     width: 444px;
@@ -71,8 +72,8 @@ const Card = ({ heading, description }) => (
                 <Description>{description}</Description>
             </Text>
             <LabelLayout>
-                <h3>test</h3>
-                <h3>test</h3>
+                <Label text="Dog" color="yellow"/>
+                <Label text="Puppy" color="green"/>
             </LabelLayout>
         </Layout>
     </CardStyle>
