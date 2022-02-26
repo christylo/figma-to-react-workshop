@@ -8,7 +8,7 @@ function App() {
         <h1>Figma to React Workshop Demo :))</h1>
       </div>
       <div className="Cards">
-        <Card/>
+        <Card heading="Marley the Retriever"/>
       </div>
     </>
   );
