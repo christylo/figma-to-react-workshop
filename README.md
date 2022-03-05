@@ -23,6 +23,12 @@ We will be using Styled Components to create this card! Read more on Styled Comp
     * only use the CSS generated for styling the component like border radius, color, font etc.
 
 </details>
+<details>
+  <summary>building the card component</summary>
+  
+  - Christy got lazy writing the steps in markdown so please refer to [this](https://nwplus.notion.site/Figma-React-88f78215946548b581eac5ccceeaa067) Notion page hehe 
+
+</details>
 
 
 
