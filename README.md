@@ -17,22 +17,13 @@ We will be using Styled Components to create this card! Read more on Styled Comp
   <summary>go to Figma file</summary>
   
   - Figma file link: [https://www.figma.com/file/ZPYG635d4BFyQJI4nGDhHS/Figma-to-React-Workshop?node-id=0%3A1](https://www.figma.com/file/ZPYG635d4BFyQJI4nGDhHS/Figma-to-React-Workshop?node-id=0%3A1)
-    - navigate to the Inspect tab for CSS code (on the upper right hand corner of the screen)
-      * don’t rely on the CSS Figma generates
-      * should not be taking the code used to generate the position of the component on the page
-      * only use the CSS generated for styling the component like border radius, color, font etc.
+  - navigate to the Inspect tab for CSS code (on the upper right hand corner of the screen)
+    * don’t rely on the CSS Figma generates
+    * should not be taking the code used to generate the position of the component on the page
+    * only use the CSS generated for styling the component like border radius, color, font etc.
 
 </details>
-<details>
-  <summary>go to Figma file</summary>
-  
-  - Figma file link: [https://www.figma.com/file/ZPYG635d4BFyQJI4nGDhHS/Figma-to-React-Workshop?node-id=0%3A1](https://www.figma.com/file/ZPYG635d4BFyQJI4nGDhHS/Figma-to-React-Workshop?node-id=0%3A1)
-    - navigate to the Inspect tab for CSS code (on the upper right hand corner of the screen)
-      * don’t rely on the CSS Figma generates
-      * should not be taking the code used to generate the position of the component on the page
-      * only use the CSS generated for styling the component like border radius, color, font etc.
 
-</details>
 
 
 ### Link to workshop slides
